@@ -91,7 +91,7 @@ INCLUDEPATH += "D:\Program Files\opencv_Dlib\dlib_uncmake\dlib-19.17"
 
  ├── 关键点：是否显示检测到的关键点。
 
-<img src="./屏幕截图.png">
+<img src="https://github.com/lboscu/head_pose_estimationv2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png">
 
 ## 存在问题
 
